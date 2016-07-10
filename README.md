@@ -10,7 +10,11 @@ l'Être, le programme crée automatiquement une fenêtre pour chaque Être. Cela
 CONSTRUCTEUR n°1 de la CLASSE Être. -A noter que la listre déroulante êtres du GUI liste tous les êtres créés.-
 
 Il faudrait fignoler le GUI comme vous savez si bien le faire et que toute suggestion est bonne à prendre, éclatez-vous si le  coeur vous en dit.
+Il faudra des boites de dialogues pour les actions suivantes :
+    - Dire , DireA , DireATous , ligne , enfanter , setImagination , écrireDansLDN.
+    
+Pour les SETERS, il faudra rajouter une liste déroulante avec un textField et un bouton de validation afin de pouvoir modifier les attributs.
 
-#Je vous demanderai de ne pas toucher aux autres classes dans vos travaux sur le GUI, quoique bien-sûr, toute proposition constructive est et sera toujours la bienvenue.
+    Je vous demanderai, en outre, de ne pas toucher aux autres classes dans vos travaux sur le GUI, quoique bien-sûr, toute proposition constructive est et sera toujours la bienvenue.
 
-    Merci encore de votre aide.
+Merci encore de votre aide.
