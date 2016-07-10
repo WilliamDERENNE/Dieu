@@ -15,6 +15,7 @@ Il faudra des boites de dialogues pour les actions suivantes :
     
 Pour les SETERS, il faudra rajouter une liste déroulante avec un textField et un bouton de validation afin de pouvoir modifier les attributs.
 
-    Je vous demanderai, en outre, de ne pas toucher aux autres classes dans vos travaux sur le GUI, quoique bien-sûr, toute proposition constructive est et sera toujours la bienvenue.
+    Je vous demanderai, en outre, de ne pas toucher aux autres classes dans vos travaux sur le GUI, quoique bien-sûr,
+    toute proposition constructive est et sera toujours la bienvenue.
 
 Merci encore de votre aide.
